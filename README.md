@@ -1,4 +1,4 @@
-# Revenge of Tie Fighter Patrols (CS 2336)
+# Revenge of Tie Fighter Patrols (CS 2336 Fall 2023)
 
 Analyse a galaxy map, then create a list of all pilots, with their routes' distances, and check the validity of their routes.
 This project is created on November 2023.
